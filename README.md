@@ -1,4 +1,4 @@
-# odin-recipes
+# shrek-soup
 
 Greetings! To whoever reads this, this is my first repository. While you
 dig through, I hope that you can see how far my future self has come. And hopefully you devs out there can be thankful that you stuck it out, and
@@ -6,7 +6,7 @@ see how far YOU have come. Enjoy :)
 
 ### What Is This Project
 
-The 'odin-recipes' project is a website containing links to 3 web pages   for 3 recipes.  These pages will each contain a:
+The 'shrek-soup' project is a website containing links to 3 web pages   for 3 recipes.  These pages will each contain a:
 
 * Picture
 * Description
@@ -15,7 +15,7 @@ The 'odin-recipes' project is a website containing links to 3 web pages   for 3 
 
 ### What For?
 
-I made this project to show my skill in HTML, uncluding:
+I made this project to show my skill in HTML, including:
 
 * HTML boiler structure
 * Elements containing tags, attributes, and content
